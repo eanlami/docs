@@ -33,9 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Yoko",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://yoko.studio"
     },
     {
       "name": "Community",
